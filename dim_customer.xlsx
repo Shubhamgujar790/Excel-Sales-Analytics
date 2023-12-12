@@ -90,11 +90,11 @@ customer_code,customer,market,platform,channel
 90015150,Amazon,Norway,E-Commerce,Retailer
 90015149,UniEuro,Norway,Brick & Mortar,Retailer
 90014140,Radio Popular,Netherlands,Brick & Mortar,Retailer
-90014139,Elkjøp,Netherlands,Brick & Mortar,Retailer
+90014139,ElkjÃ¸p,Netherlands,Brick & Mortar,Retailer
 90015144,Sound,Norway,Brick & Mortar,Retailer
 90014141,Amazon,Netherlands,E-Commerce,Retailer
 90011189,UniEuro,France,Brick & Mortar,Retailer
-90011188,Elkjøp,France,Brick & Mortar,Retailer
+90011188,ElkjÃ¸p,France,Brick & Mortar,Retailer
 90011191,Sorefoz,France,Brick & Mortar,Retailer
 90011185,Epic Stores,France,Brick & Mortar,Retailer
 90004065,Neptune,Japan,Brick & Mortar,Retailer
@@ -151,7 +151,7 @@ customer_code,customer,market,platform,channel
 90013124,Amazon,Italy,E-Commerce,Retailer
 90018114,Amazon,Spain,E-Commerce,Retailer
 90021086,Electricalsquipo Stores,United Kingdom,Brick & Mortar,Retailer
-90018113,Elkjøp,Spain,Brick & Mortar,Retailer
+90018113,ElkjÃ¸p,Spain,Brick & Mortar,Retailer
 90017057,Euronics,Portugal,Brick & Mortar,Retailer
 90017059,Amazon,Portugal,E-Commerce,Retailer
 90017056,Sorefoz,Portugal,Brick & Mortar,Retailer
